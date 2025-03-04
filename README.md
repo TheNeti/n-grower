@@ -15,7 +15,7 @@ Przed instalacją upewnij się, że masz zainstalowane następujące zależnośc
 - [ox_inventory](https://github.com/overextended/ox_inventory)
 
 ## Podgląd i wsparcie
-- [Preview]()
+- [Preview](https://youtu.be/A0FYdxj8zQU)
 - [Discord](https://discord.gg/RrtHJQ4qVT)
 
 ## Licencja
