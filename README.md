@@ -15,8 +15,8 @@ Przed instalacją upewnij się, że masz zainstalowane następujące zależnośc
 - [ox_inventory](https://github.com/overextended/ox_inventory)
 
 ## Podgląd i wsparcie
-- 🎥 [Podgląd działania]()
-- 💬 [Wsparcie na Discordzie](https://discord.gg/RrtHJQ4qVT)
+- 🎥 [Preview]()
+- 💬 [Discord](https://discord.gg/RrtHJQ4qVT)
 
 ## Licencja
 Projekt jest udostępniony na licencji **MIT**. Możesz go dowolnie modyfikować i dostosowywać do własnych potrzeb.
