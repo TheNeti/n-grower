@@ -1,0 +1,10 @@
+	['orange'] = {
+		label = 'Orange',
+		weight = 100,
+		client = {
+			status = { hunger = 50000, thirst = 50000 },
+			anim = 'eating',
+			prop = 'burger',
+			usetime = 4500,
+		},
+	},
