@@ -13,4 +13,4 @@ shared_scripts {
 
 client_script 'client/client.lua'
 
-server_script 'server/client.lua'
+server_script 'server/server.lua'
